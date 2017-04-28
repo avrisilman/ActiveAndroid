@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/domikado/Downloads/AndroidVIP/ActiveAndroid/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/domikado/Downloads/AndroidVIP/ActiveAndroid/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.3.1_8144b2368ed57be30d67f8567dd6eb6eacab9a85.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/domikado/Downloads/AndroidVIP/ActiveAndroid/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/domikado/Downloads/AndroidVIP/ActiveAndroid/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.3.1_640bc02b9b9f77e78ea85417c6a5a43addadf7c6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/domikado/Downloads/AndroidVIP/ActiveAndroid/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/domikado/Downloads/AndroidVIP/ActiveAndroid/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.3.1_e349afcddba907618b7b94c476a11f3660ee6b2c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/domikado/Downloads/AndroidVIP/ActiveAndroid/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/domikado/Downloads/AndroidVIP/ActiveAndroid/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.3.1_2345bd75d345cdb92db53e0a9eeaef80925ad27e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/domikado/Downloads/AndroidVIP/ActiveAndroid/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7c7fe21a27813b3a36b93cb6bdf951d93b9c078f">
+        <dex dex="/Users/domikado/Downloads/AndroidVIP/ActiveAndroid/app/build/intermediates/pre-dexed/debug/instant-run_05aecbe988069fb8f7daeb85f2a79c51150a80c8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/domikado/Downloads/AndroidVIP/ActiveAndroid/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/domikado/Downloads/AndroidVIP/ActiveAndroid/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.3.1_9f21c38ca471567cdf29ec3efc4328811ea9b500.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/domikado/Downloads/AndroidVIP/ActiveAndroid/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/domikado/Downloads/AndroidVIP/ActiveAndroid/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.3.1_9681bced60bdccb0e621d990c4d5afb005090a5f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/domikado/Downloads/AndroidVIP/ActiveAndroid/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/domikado/Downloads/AndroidVIP/ActiveAndroid/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.3.1_7a760387a17505c2853a142ef404b8fe8981fefb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/domikado/Downloads/AndroidVIP/ActiveAndroid/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/domikado/Downloads/AndroidVIP/ActiveAndroid/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.3.1_7802b5443f48856c830525181008cc2d71d79257.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/domikado/Downloads/AndroidVIP/ActiveAndroid/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3defa96705cb2335bb55f202d93b4426e7c95d23">
+        <dex dex="/Users/domikado/Downloads/AndroidVIP/ActiveAndroid/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_1e927323e4b275f05c995df9f1fd5c4e11c7f3de.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/domikado/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/domikado/Downloads/AndroidVIP/ActiveAndroid/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_e1211a8e4fa820f14e5d5006175a0b71792abc01.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/domikado/Downloads/AndroidVIP/ActiveAndroid/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/domikado/Downloads/AndroidVIP/ActiveAndroid/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.3.1_a1e586566649234579ba7dd9aa87b95b7d9d6082.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/domikado/.gradle/caches/modules-2/files-2.1/com.michaelpardo/activeandroid/3.1.0-SNAPSHOT/4ab7b0182975bc57c49efc5e0b3baa4a10e4ec08/activeandroid-3.1.0-SNAPSHOT.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4ab7b0182975bc57c49efc5e0b3baa4a10e4ec08">
+        <dex dex="/Users/domikado/Downloads/AndroidVIP/ActiveAndroid/app/build/intermediates/pre-dexed/debug/activeandroid-3.1.0-SNAPSHOT_e8aa51ada8d9ae376f3cbd878b401ef92e20b4d6.jar" />
+    </item>
+
+</items>
